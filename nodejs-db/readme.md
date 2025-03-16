@@ -1,2 +1,2 @@
-Simple CRUD using Node.JS and Sqlit3. 
+Simple CRUD using Node.JS and Sqlite3. 
 
